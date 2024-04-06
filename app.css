@@ -1,0 +1,79 @@
+*{
+  padding: 0%;
+  margin: 0%;
+}
+.container{
+ display: flex;
+ justify-content: space-between;
+ background-color: black;
+ color: white;
+ height: 72px;
+}
+.logo{
+  text-decoration: solid;
+  font-size: 40px;
+  text-align: center;
+  margin-top: 5px;
+  margin-left: 30px;
+  font-style:inherit;
+}
+
+ul{
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 35px;
+  list-style: none;
+  margin-right: 150px;
+
+
+}
+.shoescontainer{
+  display: flex;
+}
+.image{
+  height: 600px;
+  margin-right: 40px;
+}
+
+button{
+  background-color: red;
+  margin-right: 30px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  width: 100px;
+  font-size: 25px;
+  color: white;
+
+
+}
+.heading{
+  font-size: 80px;
+}
+.details{
+  margin-left: 30px;
+}
+
+.shop{
+  margin-top: 10px;
+  background-color: red;
+  margin-right: 30px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  width: 100px;
+  font-size: 20px;
+
+
+}
+.cate{
+  background-color: rgb(0, 255, 166);
+  font-size: 20px;
+  color: black;
+}
+
+.brand-icon{
+  margin-top: 10px;
+  display: flex;
+  gap: 10px;
+ 
+}
